@@ -36,8 +36,8 @@ The score for each move is computed by assessing the grid the move would result 
 This part was created separately to test the heuristics (aggregate height, complete lines, holes, and bumpiness) before running the AI bot on the website. This simulates a whole game. It keeps track of the state and shows information such as best position for each Tetris piece, action moves, score etc. It also keeps track of the average number of lines cleared and moves played. 
 
 ## How to play a game
-- To play a simulation of Tetris, run **Test** class.
-- To see AI Bot in action, play [demo video](https://www.youtube.com/watch?v=plhzN21yQWg).
+- To play a simulation of Tetris, run **Test** class. See ![Screenshot](Tetris_AI_Bot_demonstration.PNG)
+- To see AI Bot in action, play [demo video](https://www.youtube.com/watch?v=plhzN21yQWg) or see ![Screenshot](Tetris_Simulation.PNG)
 
 
 
